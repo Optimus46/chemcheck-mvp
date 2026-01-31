@@ -1,0 +1,9 @@
+streamlit
+pytesseract
+pillow
+requests
+spacy
+scikit-learn
+numpy
+pandas
+opencv-python
